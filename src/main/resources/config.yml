@@ -1,0 +1,8 @@
+# InterTime Casino
+# Скільки монет дають за 1 предмет при обміні в меню
+exchange:
+  diamond: 100
+  netherite: 1000
+
+# Стартовий баланс монет для нових гравців
+start-balance: 1000
